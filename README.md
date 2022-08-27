@@ -1,4 +1,4 @@
-# ArduinoDodgeGame
+# Arduino Dodge Game
 Jogo de desviar das luzes feito para arduino.
 * O prototipo do circuito está no arquivo BRD. (Feito no Tinkercad)
 * O jogador é representado pelo LED no canto inferior esquerdo.
